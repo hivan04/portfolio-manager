@@ -1,0 +1,16 @@
+unrelated/
+.env
+keys/.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local database — conversation history and portfolio snapshots
+data/investor.db
+data/investor.db-wal
+data/investor.db-shm
+
+.DS_Store
+logs/*.log

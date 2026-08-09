@@ -1,0 +1,23 @@
+[theme]
+base = "dark"
+primaryColor = "#C9A227"
+backgroundColor = "#0B0E14"
+secondaryBackgroundColor = "#141922"
+textColor = "#E6E9EF"
+font = "sans serif"
+
+[server]
+# headless = false so the browser opens on its own; set true when running
+# on a remote box. enableCORS is deliberately left at its default — turning
+# it off while XSRF protection is on makes Streamlit override it and warn.
+headless = false
+port = 8501
+address = "localhost"
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = true

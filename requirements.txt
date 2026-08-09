@@ -1,0 +1,27 @@
+# Maple — dashboard and advisor
+#
+#   python -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#   .venv/bin/streamlit run app.py
+
+# Dashboard
+streamlit>=1.40.0
+plotly>=5.24.0
+
+# Data
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+
+# Market data
+yfinance>=0.2.50
+requests>=2.32.0
+
+# Statistical arbitrage (pairs_walkforward.py / statarb.py)
+statsmodels>=0.14.0
+lxml>=5.0.0          # index constituent scraping
+matplotlib>=3.8.0    # only used by the pairs_walkforward CLI
+
+# Advisor — Google Gemini
+# Free API key: https://aistudio.google.com/apikey
+google-genai>=1.0.0
