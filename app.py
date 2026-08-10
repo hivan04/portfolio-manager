@@ -118,7 +118,8 @@ STYLE = f"""
     background: transparent; border-radius: 8px 8px 0 0;
     padding: 0.6rem 1.1rem; font-size: 0.87rem; color: {MUTED};
   }}
-  .stTabs [aria-selected="true"] {{ color: {GOLD} !important; background: {CARD}; }}
+  .stTabs [aria-selected="true"] {{ color: {GOLD} !important; background: transparent; }}
+  .stTabs [data-baseweb="tab-highlight"] {{ background-color: {GOLD}; }}
 
   /* Sidebar removed entirely. */
   [data-testid="stSidebar"], [data-testid="stSidebarCollapsedControl"],
