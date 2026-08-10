@@ -32,9 +32,9 @@ from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
 
-import ui.prompts as prompts
-from venv.memory import Memory
-from ui.prices import (
+import prompts
+from memory import Memory
+from prices import (
     load_portfolio,
     market_context,
     quote_portfolio,
@@ -99,11 +99,20 @@ def load_env() -> None:
 
 
 def api_key() -> str:
+    key, _ = api_key_debug()
+    return key
+
+
+def api_key_debug() -> tuple[str, str]:
+    """Find the key, and say where (or why not) — for the "no API key"
+    message, since guessing why a hosted secret isn't seen is unfixable
+    without knowing which of the three lookup paths actually failed.
+    """
     load_env()
     for name in KEY_NAMES:
         value = os.environ.get(name, "").strip()
         if value and not value.startswith("your_"):
-            return value
+            return value, f"found in environment ({name})"
 
     # Streamlit Cloud has no keys/.env — secrets set in the app's Settings
     # panel land in st.secrets, not the environment, so check there too.
@@ -113,11 +122,12 @@ def api_key() -> str:
         for name in KEY_NAMES:
             value = str(st.secrets.get(name, "")).strip()
             if value and not value.startswith("your_"):
-                return value
-    except Exception:  # noqa: BLE001 - no secrets configured, or not running under Streamlit
-        pass
-
-    return ""
+                return value, f"found in st.secrets ({name})"
+        return "", (
+            "st.secrets checked, no GOOGLE_API_KEY / GEMINI_API_KEY entry found"
+        )
+    except Exception as error:  # noqa: BLE001 - no secrets configured, or not running under Streamlit
+        return "", f"st.secrets lookup failed: {type(error).__name__}: {error}"
 
 
 # Rotating prompts for the offline brief. One per day, cycled so the

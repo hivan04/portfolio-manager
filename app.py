@@ -268,7 +268,13 @@ else:
     try:
         import google.genai  # noqa: F401
 
-        bits.append("Advisor: no API key")
+        try:
+            from analyzer import api_key_debug
+
+            _, reason = api_key_debug()
+        except Exception:  # noqa: BLE001
+            reason = "unknown"
+        bits.append(f"Advisor: no API key ({reason})")
     except ImportError:
         bits.append("Advisor: google-genai not installed here")
 
@@ -288,6 +294,7 @@ with status_left:
     )
 with status_right:
     if st.button("Refresh", width="stretch"):
+        st.toast("Refreshing…", icon="🔄")
         st.cache_data.clear()
         st.rerun()
 

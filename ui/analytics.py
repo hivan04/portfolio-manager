@@ -28,7 +28,7 @@ from typing import Iterable
 import numpy as np
 import pandas as pd
 
-from ui.prices import get_history, t212_to_yahoo
+from prices import get_history, t212_to_yahoo
 
 ROOT = Path(__file__).resolve().parent.parent
 DIVIDENDS_JSON = ROOT / "data" / "dividends.json"
