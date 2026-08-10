@@ -55,10 +55,7 @@ STYLE = f"""
   #MainMenu, footer, header {{ visibility: hidden; }}
 
   .stApp {{
-    background:
-      radial-gradient(1100px 600px at 12% -8%, #161C28 0%, transparent 60%),
-      radial-gradient(900px 500px at 88% 4%, #12202B 0%, transparent 55%),
-      #0B0E14;
+    background: #000000;
   }}
 
   .block-container {{ padding-top: 2.2rem; max-width: 1500px; }}
@@ -402,7 +399,7 @@ with tab_overview:
                 direction="clockwise",
                 marker={
                     "colors": PIE_COLOURS[: len(mix)],
-                    "line": {"color": "#0B0E14", "width": 2},
+                    "line": {"color": "#000000", "width": 2},
                 },
                 textinfo="label+percent",
                 textposition="outside",
