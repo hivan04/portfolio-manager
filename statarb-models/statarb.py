@@ -26,11 +26,15 @@ pairs backtest, so both are returned and the UI shows them side by side.
 from __future__ import annotations
 
 import itertools
+import sys
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Callable, Sequence
 
 import numpy as np
 import pandas as pd
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "models"))
 
 import pairs_walkforward as engine
 

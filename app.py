@@ -8,12 +8,18 @@ Portfolio data comes from data/portfolio.json, written by ``t212.sync``.
 
 from __future__ import annotations
 
+import sys
 from datetime import datetime, date
 from pathlib import Path
 
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
+
+ROOT = Path(__file__).resolve().parent
+
+sys.path.insert(0, str(ROOT / "ui"))
+sys.path.insert(0, str(ROOT / "statarb-models"))
 
 import analytics
 import prompts
@@ -27,8 +33,6 @@ from prices import (
     t212_to_yahoo,
     top_positions,
 )
-
-ROOT = Path(__file__).resolve().parent
 
 GOLD = "#C9A227"
 GREEN = "#3FB27F"

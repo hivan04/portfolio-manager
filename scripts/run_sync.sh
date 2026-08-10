@@ -11,7 +11,7 @@ LOG="logs/t212-sync.log"
 
 {
   echo "--- $(date '+%Y-%m-%d %H:%M:%S') ---"
-  "$PROJECT_DIR/.venv/bin/python" -m t212.sync
+  "$PROJECT_DIR/venv/bin/python" -m t212.sync
   echo "exit: $?"
 } >>"$LOG" 2>&1
 
