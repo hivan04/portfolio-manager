@@ -104,6 +104,19 @@ def api_key() -> str:
         value = os.environ.get(name, "").strip()
         if value and not value.startswith("your_"):
             return value
+
+    # Streamlit Cloud has no keys/.env — secrets set in the app's Settings
+    # panel land in st.secrets, not the environment, so check there too.
+    try:
+        import streamlit as st
+
+        for name in KEY_NAMES:
+            value = str(st.secrets.get(name, "")).strip()
+            if value and not value.startswith("your_"):
+                return value
+    except Exception:  # noqa: BLE001 - no secrets configured, or not running under Streamlit
+        pass
+
     return ""
 
 

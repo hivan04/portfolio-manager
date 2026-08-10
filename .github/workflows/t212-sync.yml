@@ -1,0 +1,42 @@
+name: Sync Trading 212 portfolio
+
+on:
+  schedule:
+    # 18:30 UTC daily. Adjust if you want it to land at a specific local
+    # time — UTC doesn't shift with BST/GMT the way "18:30 local" would.
+    - cron: "30 18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pandas openpyxl requests
+
+      - name: Run sync
+        env:
+          T212_API_KEY: ${{ secrets.T212_API_KEY }}
+          T212_API_SECRET: ${{ secrets.T212_API_SECRET }}
+        run: python -m t212.sync
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "t212-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/portfolio.json data/dividends.json portfolio.xlsx data/portfolio.xlsx
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated T212 sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
