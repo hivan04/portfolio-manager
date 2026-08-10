@@ -10,9 +10,15 @@ font = "sans serif"
 # headless = false so the browser opens on its own; set true when running
 # on a remote box. enableCORS is deliberately left at its default — turning
 # it off while XSRF protection is on makes Streamlit override it and warn.
+#
+# address is deliberately unset here: "localhost" can resolve to the IPv6
+# loopback in some containers, which binds the server on ::1 while a
+# platform health check dials 127.0.0.1 — a silent bind mismatch that
+# looks exactly like a crash (connection refused, no traceback). Local
+# runs default to localhost anyway; hosted platforms set their own bind
+# address via a CLI flag that overrides this file.
 headless = false
 port = 8501
-address = "localhost"
 fileWatcherType = "auto"
 
 [browser]
