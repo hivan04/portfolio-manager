@@ -7,9 +7,14 @@ textColor = "#E6E9EF"
 font = "sans serif"
 
 [server]
-# headless = false so the browser opens on its own; set true when running
-# on a remote box. enableCORS is deliberately left at its default — turning
-# it off while XSRF protection is on makes Streamlit override it and warn.
+# headless = true: on a hosted box (Streamlit Cloud, a server) there's no
+# terminal to open a browser in, and false means an interactive local
+# session — including the first-run "enter your email" prompt on stdin,
+# which blocks forever with no TTY attached. That produces exactly what a
+# dead deploy looks like: dependencies install fine, then nothing ever
+# binds the port. Locally this just means opening localhost:8501 by hand
+# instead of it opening automatically — a small trade for the app
+# actually starting when deployed.
 #
 # address is deliberately unset here: "localhost" can resolve to the IPv6
 # loopback in some containers, which binds the server on ::1 while a
@@ -17,7 +22,7 @@ font = "sans serif"
 # looks exactly like a crash (connection refused, no traceback). Local
 # runs default to localhost anyway; hosted platforms set their own bind
 # address via a CLI flag that overrides this file.
-headless = false
+headless = true
 port = 8501
 fileWatcherType = "auto"
 
