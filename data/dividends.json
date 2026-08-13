@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-12T19:34:51.579383+00:00",
+  "generatedAt": "2026-08-13T19:33:04.417078+00:00",
   "currency": "GBP",
   "dividends": [
     {
-      "Ticker": "NUE_US_EQ",
-      "Paid on": "2026-08-11",
-      "Amount": 0.2,
-      "Quantity": 0.5550481,
-      "Per share": 0.56,
+      "Ticker": "AAPL_US_EQ",
+      "Paid on": "2026-08-13",
+      "Amount": 0.52,
+      "Quantity": 3.05550814,
+      "Per share": 0.27,
       "Type": "DIVIDEND",
-      "Reference": "96d857a7-8bf6-494c-b5bc-6868656b927c",
-      "Name": "Nucor",
+      "Reference": "a09249f5-e58c-4377-9f70-2cd6849ea979",
+      "Name": "Apple",
       "Currency": "GBP"
     },
     {
@@ -22,6 +22,17 @@
       "Type": "DIVIDEND",
       "Reference": "dbad925a-9490-481b-9a79-8edb551e6e49",
       "Name": "AGNC Investment",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NUE_US_EQ",
+      "Paid on": "2026-08-11",
+      "Amount": 0.2,
+      "Quantity": 0.5550481,
+      "Per share": 0.56,
+      "Type": "DIVIDEND",
+      "Reference": "96d857a7-8bf6-494c-b5bc-6868656b927c",
+      "Name": "Nucor",
       "Currency": "GBP"
     },
     {
@@ -333,17 +344,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "KO_US_EQ",
-      "Paid on": "2026-07-01",
-      "Amount": 0.58,
-      "Quantity": 1.70611065,
-      "Per share": 0.53,
-      "Type": "DIVIDEND",
-      "Reference": "383175b4-249d-4764-acd5-991c198093ce",
-      "Name": "Coca-Cola",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "ADP_US_EQ",
       "Paid on": "2026-07-01",
       "Amount": 0.69,
@@ -352,6 +352,17 @@
       "Type": "DIVIDEND",
       "Reference": "621a3d9d-4e4c-4e75-9218-8e450a45dea3",
       "Name": "Automatic Data Processing",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "KO_US_EQ",
+      "Paid on": "2026-07-01",
+      "Amount": 0.58,
+      "Quantity": 1.70611065,
+      "Per share": 0.53,
+      "Type": "DIVIDEND",
+      "Reference": "383175b4-249d-4764-acd5-991c198093ce",
+      "Name": "Coca-Cola",
       "Currency": "GBP"
     },
     {
@@ -395,7 +406,7 @@
       "Per share": 29.18,
       "Type": "DIVIDEND",
       "Reference": "fe419e62-9189-4beb-86df-89f7500645aa",
-      "Name": "Shell",
+      "Name": "SHELl_EQ",
       "Currency": "GBP"
     },
     {
@@ -472,7 +483,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "cef5ffbb-38d1-4051-b55c-0f90475d8356",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
@@ -890,7 +901,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "fdee7d11-b441-44d3-b4dc-c1d6d1242010",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
@@ -1011,7 +1022,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "b59c1a42-8498-47cf-922a-be7c18784de0",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
@@ -1143,7 +1154,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "68968e76-4175-4f60-98e7-e7230adb2adf",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
@@ -1275,7 +1286,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "4641e202-134c-42b4-b6a1-1d92a702772b",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
@@ -1396,7 +1407,7 @@
       "Per share": 0.525,
       "Type": "DIVIDEND",
       "Reference": "c19d0fe2-9558-4d07-876e-1a9566b7bc77",
-      "Name": "Meta Platforms",
+      "Name": "FB_US_EQ",
       "Currency": "GBP"
     },
     {
