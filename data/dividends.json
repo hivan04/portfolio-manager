@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-16T18:53:27.676191+00:00",
+  "generatedAt": "2026-08-17T19:06:46.700578+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "PG_US_EQ",
+      "Paid on": "2026-08-17",
+      "Amount": 0.63,
+      "Quantity": 0.91637352,
+      "Per share": 1.0885,
+      "Type": "DIVIDEND",
+      "Reference": "62057664-bad5-4b06-a553-98685dff3427",
+      "Name": "Procter & Gamble",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ABT_US_EQ",
+      "Paid on": "2026-08-17",
+      "Amount": 0.62,
+      "Quantity": 1.55804584,
+      "Per share": 0.63,
+      "Type": "DIVIDEND",
+      "Reference": "24e5f8d7-013e-4ddb-8048-a43e18066a6a",
+      "Name": "Abbott Laboratories",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "O_US_EQ",
       "Paid on": "2026-08-14",
@@ -14,17 +36,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MAIN_US_EQ",
-      "Paid on": "2026-08-14",
-      "Amount": 0.45,
-      "Quantity": 2.70722512,
-      "Per share": 0.265,
-      "Type": "DIVIDEND",
-      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
-      "Name": "Main Street Capital",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "ADC_US_EQ",
       "Paid on": "2026-08-14",
       "Amount": 0.31,
@@ -33,6 +44,17 @@
       "Type": "DIVIDEND",
       "Reference": "8a2912ac-95fb-469e-90ec-f8042d0cc445",
       "Name": "Agree Realty",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-08-14",
+      "Amount": 0.45,
+      "Quantity": 2.70722512,
+      "Per share": 0.265,
+      "Type": "DIVIDEND",
+      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
+      "Name": "Main Street Capital",
       "Currency": "GBP"
     },
     {
@@ -135,6 +157,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "JPM_US_EQ",
+      "Paid on": "2026-07-31",
+      "Amount": 0.39,
+      "Quantity": 0.40867246,
+      "Per share": 1.5,
+      "Type": "DIVIDEND",
+      "Reference": "c58c3aeb-30a1-4d79-9283-c3ba531a2168",
+      "Name": "JPMorgan Chase & Co",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "GOOD_US_EQ",
       "Paid on": "2026-07-31",
       "Amount": 0.72,
@@ -165,17 +198,6 @@
       "Type": "DIVIDEND",
       "Reference": "ac1b628f-f64d-4544-9420-9b929300c8f6",
       "Name": "LTC Properties",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "JPM_US_EQ",
-      "Paid on": "2026-07-31",
-      "Amount": 0.39,
-      "Quantity": 0.40867246,
-      "Per share": 1.5,
-      "Type": "DIVIDEND",
-      "Reference": "c58c3aeb-30a1-4d79-9283-c3ba531a2168",
-      "Name": "JPMorgan Chase & Co",
       "Currency": "GBP"
     },
     {
@@ -476,14 +498,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "HSBAl_EQ",
+      "Ticker": "NDAQ_US_EQ",
       "Paid on": "2026-06-26",
-      "Amount": 13.14,
-      "Quantity": 176.393183,
-      "Per share": 7.4489,
+      "Amount": 1.83,
+      "Quantity": 9.195979,
+      "Per share": 0.31,
       "Type": "DIVIDEND",
-      "Reference": "f3027375-a53c-4060-ac07-c1d655f435a9",
-      "Name": "HSBC",
+      "Reference": "98dde4bd-b40c-4a4b-a974-ee5008cb735c",
+      "Name": "Nasdaq",
       "Currency": "GBP"
     },
     {
@@ -498,14 +520,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "NDAQ_US_EQ",
+      "Ticker": "HSBAl_EQ",
       "Paid on": "2026-06-26",
-      "Amount": 1.83,
-      "Quantity": 9.195979,
-      "Per share": 0.31,
+      "Amount": 13.14,
+      "Quantity": 176.393183,
+      "Per share": 7.4489,
       "Type": "DIVIDEND",
-      "Reference": "98dde4bd-b40c-4a4b-a974-ee5008cb735c",
-      "Name": "Nasdaq",
+      "Reference": "f3027375-a53c-4060-ac07-c1d655f435a9",
+      "Name": "HSBC",
       "Currency": "GBP"
     },
     {
