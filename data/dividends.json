@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-08-24T19:09:11.607627+00:00",
+  "generatedAt": "2026-08-25T19:07:46.077117+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "NVO_US_EQ",
+      "Paid on": "2026-08-25",
+      "Amount": 6.21,
+      "Quantity": 20.0,
+      "Per share": 0.579193,
+      "Type": "DIVIDEND",
+      "Reference": "52f5349a-fc6d-42d7-981c-6c8d761a8192",
+      "Name": "Novo Nordisk",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "RY_US_EQ",
       "Paid on": "2026-08-24",
@@ -11,17 +22,6 @@
       "Type": "DIVIDEND",
       "Reference": "4d7c843c-2616-4180-ad4d-61617a8b78e2",
       "Name": "Royal Bank of Canada",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "ABT_US_EQ",
-      "Paid on": "2026-08-17",
-      "Amount": 0.62,
-      "Quantity": 1.55804584,
-      "Per share": 0.63,
-      "Type": "DIVIDEND",
-      "Reference": "24e5f8d7-013e-4ddb-8048-a43e18066a6a",
-      "Name": "Abbott Laboratories",
       "Currency": "GBP"
     },
     {
@@ -36,6 +36,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "ABT_US_EQ",
+      "Paid on": "2026-08-17",
+      "Amount": 0.62,
+      "Quantity": 1.55804584,
+      "Per share": 0.63,
+      "Type": "DIVIDEND",
+      "Reference": "24e5f8d7-013e-4ddb-8048-a43e18066a6a",
+      "Name": "Abbott Laboratories",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "O_US_EQ",
       "Paid on": "2026-08-14",
       "Amount": 0.39,
@@ -47,17 +58,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MAIN_US_EQ",
-      "Paid on": "2026-08-14",
-      "Amount": 0.45,
-      "Quantity": 2.70722512,
-      "Per share": 0.265,
-      "Type": "DIVIDEND",
-      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
-      "Name": "Main Street Capital",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "ADC_US_EQ",
       "Paid on": "2026-08-14",
       "Amount": 0.31,
@@ -66,6 +66,17 @@
       "Type": "DIVIDEND",
       "Reference": "8a2912ac-95fb-469e-90ec-f8042d0cc445",
       "Name": "Agree Realty",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-08-14",
+      "Amount": 0.45,
+      "Quantity": 2.70722512,
+      "Per share": 0.265,
+      "Type": "DIVIDEND",
+      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
+      "Name": "Main Street Capital",
       "Currency": "GBP"
     },
     {
@@ -113,17 +124,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MA_US_EQ",
-      "Paid on": "2026-08-07",
-      "Amount": 0.15,
-      "Quantity": 0.28038062,
-      "Per share": 0.87,
-      "Type": "DIVIDEND",
-      "Reference": "63b3ffe3-4d2a-4a61-a69e-c018147fec52",
-      "Name": "Mastercard",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "PNR_US_EQ",
       "Paid on": "2026-08-07",
       "Amount": 0.37,
@@ -143,6 +143,17 @@
       "Type": "DIVIDEND",
       "Reference": "12b37edd-d847-4c5a-becf-c4b8640bbf1a",
       "Name": "General Dynamics",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "MA_US_EQ",
+      "Paid on": "2026-08-07",
+      "Amount": 0.15,
+      "Quantity": 0.28038062,
+      "Per share": 0.87,
+      "Type": "DIVIDEND",
+      "Reference": "63b3ffe3-4d2a-4a61-a69e-c018147fec52",
+      "Name": "Mastercard",
       "Currency": "GBP"
     },
     {
@@ -256,17 +267,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ROP_US_EQ",
-      "Paid on": "2026-07-22",
-      "Amount": 0.24,
-      "Quantity": 0.42010405,
-      "Per share": 0.91,
-      "Type": "DIVIDEND",
-      "Reference": "a7fe05e4-5f10-4b38-ad01-7df26163509f",
-      "Name": "Roper Technologies",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "CSCO_US_EQ",
       "Paid on": "2026-07-22",
       "Amount": 5.02,
@@ -275,6 +275,17 @@
       "Type": "DIVIDEND",
       "Reference": "aca85577-53f8-4cb4-994e-b1bf538ed352",
       "Name": "Cisco Systems",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ROP_US_EQ",
+      "Paid on": "2026-07-22",
+      "Amount": 0.24,
+      "Quantity": 0.42010405,
+      "Per share": 0.91,
+      "Type": "DIVIDEND",
+      "Reference": "a7fe05e4-5f10-4b38-ad01-7df26163509f",
+      "Name": "Roper Technologies",
       "Currency": "GBP"
     },
     {
@@ -432,6 +443,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "GOOD_US_EQ",
+      "Paid on": "2026-06-30",
+      "Amount": 0.73,
+      "Quantity": 11.40066159,
+      "Per share": 0.1,
+      "Type": "DIVIDEND",
+      "Reference": "b5ffe93d-1119-4f46-96ba-23fb226bf507",
+      "Name": "Gladstone Commercial",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "PEP_US_EQ",
       "Paid on": "2026-06-30",
       "Amount": 0.82,
@@ -451,17 +473,6 @@
       "Type": "DIVIDEND",
       "Reference": "fe419e62-9189-4beb-86df-89f7500645aa",
       "Name": "SHELl_EQ",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "GOOD_US_EQ",
-      "Paid on": "2026-06-30",
-      "Amount": 0.73,
-      "Quantity": 11.40066159,
-      "Per share": 0.1,
-      "Type": "DIVIDEND",
-      "Reference": "b5ffe93d-1119-4f46-96ba-23fb226bf507",
-      "Name": "Gladstone Commercial",
       "Currency": "GBP"
     },
     {
@@ -817,17 +828,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MAIN_US_EQ",
-      "Paid on": "2026-05-15",
-      "Amount": 0.41,
-      "Quantity": 2.50544524,
-      "Per share": 0.26,
-      "Type": "DIVIDEND",
-      "Reference": "9bb58c31-f8f2-4b54-aa7b-a798c2843915",
-      "Name": "Main Street Capital",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "KMI_US_EQ",
       "Paid on": "2026-05-15",
       "Amount": 3.79,
@@ -836,6 +836,17 @@
       "Type": "DIVIDEND",
       "Reference": "5c3ca19a-ffb7-4a56-86ab-33adc256bf75",
       "Name": "KMI_US_EQ",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-05-15",
+      "Amount": 0.41,
+      "Quantity": 2.50544524,
+      "Per share": 0.26,
+      "Type": "DIVIDEND",
+      "Reference": "9bb58c31-f8f2-4b54-aa7b-a798c2843915",
+      "Name": "Main Street Capital",
       "Currency": "GBP"
     },
     {
