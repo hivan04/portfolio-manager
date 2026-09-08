@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-07T21:38:36.569326+00:00",
+  "generatedAt": "2026-09-08T21:17:55.636362+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "JNJ_US_EQ",
+      "Paid on": "2026-09-08",
+      "Amount": 0.5,
+      "Quantity": 0.59183053,
+      "Per share": 1.34,
+      "Type": "DIVIDEND",
+      "Reference": "ed363a9b-49f7-4f31-8006-d13d76c4f975",
+      "Name": "Johnson & Johnson",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "WMT_US_EQ",
+      "Paid on": "2026-09-08",
+      "Amount": 0.18,
+      "Quantity": 1.17308322,
+      "Per share": 0.2475,
+      "Type": "DIVIDEND",
+      "Reference": "d5984a88-291a-4846-b797-dad723ba334b",
+      "Name": "Walmart",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "AFL_US_EQ",
       "Paid on": "2026-09-01",
@@ -212,17 +234,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "GD_US_EQ",
-      "Paid on": "2026-08-07",
-      "Amount": 0.38,
-      "Quantity": 0.37810738,
-      "Per share": 1.59,
-      "Type": "DIVIDEND",
-      "Reference": "12b37edd-d847-4c5a-becf-c4b8640bbf1a",
-      "Name": "General Dynamics",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "MA_US_EQ",
       "Paid on": "2026-08-07",
       "Amount": 0.15,
@@ -242,6 +253,17 @@
       "Type": "DIVIDEND",
       "Reference": "64ad2277-c13a-4437-b92d-829ace5c3f90",
       "Name": "Pentair",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "GD_US_EQ",
+      "Paid on": "2026-08-07",
+      "Amount": 0.38,
+      "Quantity": 0.37810738,
+      "Per share": 1.59,
+      "Type": "DIVIDEND",
+      "Reference": "12b37edd-d847-4c5a-becf-c4b8640bbf1a",
+      "Name": "General Dynamics",
       "Currency": "GBP"
     },
     {
@@ -509,17 +531,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "KO_US_EQ",
-      "Paid on": "2026-07-01",
-      "Amount": 0.58,
-      "Quantity": 1.70611065,
-      "Per share": 0.53,
-      "Type": "DIVIDEND",
-      "Reference": "383175b4-249d-4764-acd5-991c198093ce",
-      "Name": "Coca-Cola",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "ADP_US_EQ",
       "Paid on": "2026-07-01",
       "Amount": 0.69,
@@ -528,6 +539,17 @@
       "Type": "DIVIDEND",
       "Reference": "621a3d9d-4e4c-4e75-9218-8e450a45dea3",
       "Name": "Automatic Data Processing",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "KO_US_EQ",
+      "Paid on": "2026-07-01",
+      "Amount": 0.58,
+      "Quantity": 1.70611065,
+      "Per share": 0.53,
+      "Type": "DIVIDEND",
+      "Reference": "383175b4-249d-4764-acd5-991c198093ce",
+      "Name": "Coca-Cola",
       "Currency": "GBP"
     },
     {
