@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-09-14T21:56:25.633104+00:00",
+  "generatedAt": "2026-09-15T21:34:04.818520+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-09-15",
+      "Amount": 0.45,
+      "Quantity": 2.70722512,
+      "Per share": 0.265,
+      "Type": "DIVIDEND",
+      "Reference": "d57e200a-11e2-4b9a-8bd2-1ebe646454f6",
+      "Name": "Main Street Capital",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "LCLN_US_EQ",
+      "Paid on": "2026-09-15",
+      "Amount": 5.07,
+      "Quantity": 115.0,
+      "Per share": 0.07,
+      "Type": "DIVIDEND",
+      "Reference": "fc256bf6-9ce3-4cd6-92a3-796b60852dad",
+      "Name": "Lincoln International",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "O_US_EQ",
+      "Paid on": "2026-09-15",
+      "Amount": 0.39,
+      "Quantity": 2.27580753,
+      "Per share": 0.271,
+      "Type": "DIVIDEND",
+      "Reference": "d46c9c07-ac1a-484c-983e-de73fbeddc6d",
+      "Name": "Realty Income",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "LLOYl_EQ",
+      "Paid on": "2026-09-15",
+      "Amount": 16.03,
+      "Quantity": 1014.362806,
+      "Per share": 1.58,
+      "Type": "DIVIDEND",
+      "Reference": "6a199e43-5e64-4902-ac0f-b1bde9c82b84",
+      "Name": "Lloyds Banking Group",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ADC_US_EQ",
+      "Paid on": "2026-09-15",
+      "Amount": 0.31,
+      "Quantity": 1.85908491,
+      "Per share": 0.267,
+      "Type": "DIVIDEND",
+      "Reference": "1bc43fec-c07d-4425-aa44-80b5a9e15a8f",
+      "Name": "Agree Realty",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "GOOGL_US_EQ",
       "Paid on": "2026-09-14",
@@ -11,17 +66,6 @@
       "Type": "DIVIDEND",
       "Reference": "583c2aa0-d443-4077-87fe-b94cea19869f",
       "Name": "Alphabet (Class A)",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "SHW_US_EQ",
-      "Paid on": "2026-09-11",
-      "Amount": 0.22,
-      "Quantity": 0.43583007,
-      "Per share": 0.8,
-      "Type": "DIVIDEND",
-      "Reference": "0974a289-519a-4198-8042-8f5f5d3e0932",
-      "Name": "Sherwin-Williams",
       "Currency": "GBP"
     },
     {
@@ -36,14 +80,25 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MSFT_US_EQ",
-      "Paid on": "2026-09-10",
-      "Amount": 1.06,
-      "Quantity": 1.8650317,
-      "Per share": 0.91,
+      "Ticker": "SHW_US_EQ",
+      "Paid on": "2026-09-11",
+      "Amount": 0.22,
+      "Quantity": 0.43583007,
+      "Per share": 0.8,
       "Type": "DIVIDEND",
-      "Reference": "be079bc4-1c12-439d-9d7e-3e3461b6fc3e",
-      "Name": "Microsoft",
+      "Reference": "0974a289-519a-4198-8042-8f5f5d3e0932",
+      "Name": "Sherwin-Williams",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "EMR_US_EQ",
+      "Paid on": "2026-09-10",
+      "Amount": 0.32,
+      "Quantity": 0.90543241,
+      "Per share": 0.555,
+      "Type": "DIVIDEND",
+      "Reference": "f02c7738-41ac-4108-a7ed-512b88cb3f08",
+      "Name": "Emerson Electric",
       "Currency": "GBP"
     },
     {
@@ -80,14 +135,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "EMR_US_EQ",
+      "Ticker": "MSFT_US_EQ",
       "Paid on": "2026-09-10",
-      "Amount": 0.32,
-      "Quantity": 0.90543241,
-      "Per share": 0.555,
+      "Amount": 1.06,
+      "Quantity": 1.8650317,
+      "Per share": 0.91,
       "Type": "DIVIDEND",
-      "Reference": "f02c7738-41ac-4108-a7ed-512b88cb3f08",
-      "Name": "Emerson Electric",
+      "Reference": "be079bc4-1c12-439d-9d7e-3e3461b6fc3e",
+      "Name": "Microsoft",
       "Currency": "GBP"
     },
     {
@@ -146,6 +201,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "EMHGl_EQ",
+      "Paid on": "2026-08-31",
+      "Amount": 2.62,
+      "Quantity": 140.0,
+      "Per share": 0.0187,
+      "Type": "DIVIDEND",
+      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
+      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "GOOD_US_EQ",
       "Paid on": "2026-08-31",
       "Amount": 0.72,
@@ -165,17 +231,6 @@
       "Type": "DIVIDEND",
       "Reference": "c5df0d36-5cb4-42c2-bc0a-23a7108114f7",
       "Name": "LTC Properties",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "EMHGl_EQ",
-      "Paid on": "2026-08-31",
-      "Amount": 2.62,
-      "Quantity": 140.0,
-      "Per share": 0.0187,
-      "Type": "DIVIDEND",
-      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
       "Currency": "GBP"
     },
     {
@@ -245,14 +300,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MAIN_US_EQ",
+      "Ticker": "O_US_EQ",
       "Paid on": "2026-08-14",
-      "Amount": 0.45,
-      "Quantity": 2.70722512,
-      "Per share": 0.265,
+      "Amount": 0.39,
+      "Quantity": 2.27580753,
+      "Per share": 0.271,
       "Type": "DIVIDEND",
-      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
-      "Name": "Main Street Capital",
+      "Reference": "b6656bb9-c232-4a78-9d14-820bac44748d",
+      "Name": "Realty Income",
       "Currency": "GBP"
     },
     {
@@ -267,14 +322,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "O_US_EQ",
+      "Ticker": "MAIN_US_EQ",
       "Paid on": "2026-08-14",
-      "Amount": 0.39,
-      "Quantity": 2.27580753,
-      "Per share": 0.271,
+      "Amount": 0.45,
+      "Quantity": 2.70722512,
+      "Per share": 0.265,
       "Type": "DIVIDEND",
-      "Reference": "b6656bb9-c232-4a78-9d14-820bac44748d",
-      "Name": "Realty Income",
+      "Reference": "cc0b482f-a06f-4f72-83a7-7340c16bc200",
+      "Name": "Main Street Capital",
       "Currency": "GBP"
     },
     {
@@ -377,6 +432,28 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "JPM_US_EQ",
+      "Paid on": "2026-07-31",
+      "Amount": 0.39,
+      "Quantity": 0.40867246,
+      "Per share": 1.5,
+      "Type": "DIVIDEND",
+      "Reference": "c58c3aeb-30a1-4d79-9283-c3ba531a2168",
+      "Name": "JPMorgan Chase & Co",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "GOOD_US_EQ",
+      "Paid on": "2026-07-31",
+      "Amount": 0.72,
+      "Quantity": 11.40066159,
+      "Per share": 0.1,
+      "Type": "DIVIDEND",
+      "Reference": "562ff49e-fa53-4eba-8cfc-8b8e2b668dc2",
+      "Name": "Gladstone Commercial",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "TD_US_EQ",
       "Paid on": "2026-07-31",
       "Amount": 0.58,
@@ -396,28 +473,6 @@
       "Type": "DIVIDEND",
       "Reference": "ac1b628f-f64d-4544-9420-9b929300c8f6",
       "Name": "LTC Properties",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "GOOD_US_EQ",
-      "Paid on": "2026-07-31",
-      "Amount": 0.72,
-      "Quantity": 11.40066159,
-      "Per share": 0.1,
-      "Type": "DIVIDEND",
-      "Reference": "562ff49e-fa53-4eba-8cfc-8b8e2b668dc2",
-      "Name": "Gladstone Commercial",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "JPM_US_EQ",
-      "Paid on": "2026-07-31",
-      "Amount": 0.39,
-      "Quantity": 0.40867246,
-      "Per share": 1.5,
-      "Type": "DIVIDEND",
-      "Reference": "c58c3aeb-30a1-4d79-9283-c3ba531a2168",
-      "Name": "JPMorgan Chase & Co",
       "Currency": "GBP"
     },
     {
@@ -498,14 +553,25 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "CAH_US_EQ",
+      "Ticker": "O_US_EQ",
       "Paid on": "2026-07-15",
-      "Amount": 0.2,
-      "Quantity": 0.61215748,
-      "Per share": 0.5158,
+      "Amount": 0.39,
+      "Quantity": 2.27580753,
+      "Per share": 0.271,
       "Type": "DIVIDEND",
-      "Reference": "51b14368-50d9-4247-8baa-aa1b7d8b9636",
-      "Name": "Cardinal Health",
+      "Reference": "6b574070-c04b-43d1-89a8-1db16863757f",
+      "Name": "Realty Income",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ADC_US_EQ",
+      "Paid on": "2026-07-15",
+      "Amount": 0.31,
+      "Quantity": 1.85908491,
+      "Per share": 0.267,
+      "Type": "DIVIDEND",
+      "Reference": "d792af7d-b08b-46e0-89c5-998a4ef8d7be",
+      "Name": "Agree Realty",
       "Currency": "GBP"
     },
     {
@@ -531,25 +597,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ADC_US_EQ",
+      "Ticker": "CAH_US_EQ",
       "Paid on": "2026-07-15",
-      "Amount": 0.31,
-      "Quantity": 1.85908491,
-      "Per share": 0.267,
+      "Amount": 0.2,
+      "Quantity": 0.61215748,
+      "Per share": 0.5158,
       "Type": "DIVIDEND",
-      "Reference": "d792af7d-b08b-46e0-89c5-998a4ef8d7be",
-      "Name": "Agree Realty",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "O_US_EQ",
-      "Paid on": "2026-07-15",
-      "Amount": 0.39,
-      "Quantity": 2.27580753,
-      "Per share": 0.271,
-      "Type": "DIVIDEND",
-      "Reference": "6b574070-c04b-43d1-89a8-1db16863757f",
-      "Name": "Realty Income",
+      "Reference": "51b14368-50d9-4247-8baa-aa1b7d8b9636",
+      "Name": "Cardinal Health",
       "Currency": "GBP"
     },
     {
@@ -619,17 +674,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ADP_US_EQ",
-      "Paid on": "2026-07-01",
-      "Amount": 0.69,
-      "Quantity": 0.63422137,
-      "Per share": 1.7,
-      "Type": "DIVIDEND",
-      "Reference": "621a3d9d-4e4c-4e75-9218-8e450a45dea3",
-      "Name": "Automatic Data Processing",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "KO_US_EQ",
       "Paid on": "2026-07-01",
       "Amount": 0.58,
@@ -641,36 +685,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "GOOD_US_EQ",
-      "Paid on": "2026-06-30",
-      "Amount": 0.73,
-      "Quantity": 11.40066159,
-      "Per share": 0.1,
+      "Ticker": "ADP_US_EQ",
+      "Paid on": "2026-07-01",
+      "Amount": 0.69,
+      "Quantity": 0.63422137,
+      "Per share": 1.7,
       "Type": "DIVIDEND",
-      "Reference": "b5ffe93d-1119-4f46-96ba-23fb226bf507",
-      "Name": "Gladstone Commercial",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "SHELl_EQ",
-      "Paid on": "2026-06-30",
-      "Amount": 14.59,
-      "Quantity": 50.0,
-      "Per share": 29.18,
-      "Type": "DIVIDEND",
-      "Reference": "fe419e62-9189-4beb-86df-89f7500645aa",
-      "Name": "SHELl_EQ",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "EMHGl_EQ",
-      "Paid on": "2026-06-30",
-      "Amount": 2.34,
-      "Quantity": 140.0,
-      "Per share": 0.0167,
-      "Type": "DIVIDEND",
-      "Reference": "f4d0945e-9a69-4b0e-b885-634ded3540b7",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Reference": "621a3d9d-4e4c-4e75-9218-8e450a45dea3",
+      "Name": "Automatic Data Processing",
       "Currency": "GBP"
     },
     {
@@ -685,6 +707,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "EMHGl_EQ",
+      "Paid on": "2026-06-30",
+      "Amount": 2.34,
+      "Quantity": 140.0,
+      "Per share": 0.0167,
+      "Type": "DIVIDEND",
+      "Reference": "f4d0945e-9a69-4b0e-b885-634ded3540b7",
+      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "PEP_US_EQ",
       "Paid on": "2026-06-30",
       "Amount": 0.82,
@@ -693,6 +726,28 @@
       "Type": "DIVIDEND",
       "Reference": "123c80bd-8e1f-4bbd-b632-e84fad01924f",
       "Name": "PepsiCo",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "SHELl_EQ",
+      "Paid on": "2026-06-30",
+      "Amount": 14.59,
+      "Quantity": 50.0,
+      "Per share": 29.18,
+      "Type": "DIVIDEND",
+      "Reference": "fe419e62-9189-4beb-86df-89f7500645aa",
+      "Name": "SHELl_EQ",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "GOOD_US_EQ",
+      "Paid on": "2026-06-30",
+      "Amount": 0.73,
+      "Quantity": 11.40066159,
+      "Per share": 0.1,
+      "Type": "DIVIDEND",
+      "Reference": "b5ffe93d-1119-4f46-96ba-23fb226bf507",
+      "Name": "Gladstone Commercial",
       "Currency": "GBP"
     },
     {
@@ -795,17 +850,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "GOOGL_US_EQ",
-      "Paid on": "2026-06-15",
-      "Amount": 0.28,
-      "Quantity": 2.0,
-      "Per share": 0.22,
-      "Type": "DIVIDEND",
-      "Reference": "aba5e94a-5df9-4a95-ae92-8f9e5900bd03",
-      "Name": "Alphabet (Class A)",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "MAIN_US_EQ",
       "Paid on": "2026-06-15",
       "Amount": 0.41,
@@ -825,6 +869,17 @@
       "Type": "DIVIDEND",
       "Reference": "b150a7ca-b158-46dd-b741-eff2832df72c",
       "Name": "Realty Income",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "GOOGL_US_EQ",
+      "Paid on": "2026-06-15",
+      "Amount": 0.28,
+      "Quantity": 2.0,
+      "Per share": 0.22,
+      "Type": "DIVIDEND",
+      "Reference": "aba5e94a-5df9-4a95-ae92-8f9e5900bd03",
+      "Name": "Alphabet (Class A)",
       "Currency": "GBP"
     },
     {
@@ -894,17 +949,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "JNJ_US_EQ",
-      "Paid on": "2026-06-09",
-      "Amount": 0.5,
-      "Quantity": 0.59183053,
-      "Per share": 1.34,
-      "Type": "DIVIDEND",
-      "Reference": "3d1c544d-b1ba-417b-a804-17f21bd1b66a",
-      "Name": "Johnson & Johnson",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "AGNC_US_EQ",
       "Paid on": "2026-06-09",
       "Amount": 0.95,
@@ -913,6 +957,17 @@
       "Type": "DIVIDEND",
       "Reference": "bf9a70b2-eb8f-48b1-a530-ad508b90f6b8",
       "Name": "AGNC Investment",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "JNJ_US_EQ",
+      "Paid on": "2026-06-09",
+      "Amount": 0.5,
+      "Quantity": 0.59183053,
+      "Per share": 1.34,
+      "Type": "DIVIDEND",
+      "Reference": "3d1c544d-b1ba-417b-a804-17f21bd1b66a",
+      "Name": "Johnson & Johnson",
       "Currency": "GBP"
     },
     {
@@ -927,17 +982,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "AFL_US_EQ",
-      "Paid on": "2026-06-01",
-      "Amount": 0.46,
-      "Quantity": 1.19293916,
-      "Per share": 0.61,
-      "Type": "DIVIDEND",
-      "Reference": "92ee2a2c-d4fb-4a53-bc9d-f0759a456aea",
-      "Name": "Aflac",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "GWW_US_EQ",
       "Paid on": "2026-06-01",
       "Amount": 0.18,
@@ -946,6 +990,17 @@
       "Type": "DIVIDEND",
       "Reference": "e97203ea-09de-45a1-9c84-45b1c9b4c350",
       "Name": "WW Grainger",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "AFL_US_EQ",
+      "Paid on": "2026-06-01",
+      "Amount": 0.46,
+      "Quantity": 1.19293916,
+      "Per share": 0.61,
+      "Type": "DIVIDEND",
+      "Reference": "92ee2a2c-d4fb-4a53-bc9d-f0759a456aea",
+      "Name": "Aflac",
       "Currency": "GBP"
     },
     {
@@ -1026,17 +1081,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "MAIN_US_EQ",
-      "Paid on": "2026-05-15",
-      "Amount": 0.41,
-      "Quantity": 2.50544524,
-      "Per share": 0.26,
-      "Type": "DIVIDEND",
-      "Reference": "9bb58c31-f8f2-4b54-aa7b-a798c2843915",
-      "Name": "Main Street Capital",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "KMI_US_EQ",
       "Paid on": "2026-05-15",
       "Amount": 3.79,
@@ -1045,6 +1089,17 @@
       "Type": "DIVIDEND",
       "Reference": "5c3ca19a-ffb7-4a56-86ab-33adc256bf75",
       "Name": "KMI_US_EQ",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-05-15",
+      "Amount": 0.41,
+      "Quantity": 2.50544524,
+      "Per share": 0.26,
+      "Type": "DIVIDEND",
+      "Reference": "9bb58c31-f8f2-4b54-aa7b-a798c2843915",
+      "Name": "Main Street Capital",
       "Currency": "GBP"
     },
     {
@@ -1433,17 +1488,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "HSBAl_EQ",
-      "Paid on": "2025-09-26",
-      "Amount": 14.08,
-      "Quantity": 191.393183,
-      "Per share": 7.3562,
-      "Type": "DIVIDEND",
-      "Reference": "dfb84668-2425-461a-8ee2-d6150f6bb8dc",
-      "Name": "HSBC",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "NDAQ_US_EQ",
       "Paid on": "2025-09-26",
       "Amount": 1.58,
@@ -1452,6 +1496,17 @@
       "Type": "DIVIDEND",
       "Reference": "46291732-75f4-46c9-abec-083110571af6",
       "Name": "Nasdaq",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "HSBAl_EQ",
+      "Paid on": "2025-09-26",
+      "Amount": 14.08,
+      "Quantity": 191.393183,
+      "Per share": 7.3562,
+      "Type": "DIVIDEND",
+      "Reference": "dfb84668-2425-461a-8ee2-d6150f6bb8dc",
+      "Name": "HSBC",
       "Currency": "GBP"
     },
     {
