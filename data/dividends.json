@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-24T21:39:06.094659+00:00",
+  "generatedAt": "2026-09-25T21:44:09.387389+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "HSBAl_EQ",
+      "Paid on": "2026-09-25",
+      "Amount": 13.08,
+      "Quantity": 176.393183,
+      "Per share": 7.4134,
+      "Type": "DIVIDEND",
+      "Reference": "7f17d32c-ffdd-4bf2-9c78-aac4221ad03d",
+      "Name": "HSBC",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NDAQ_US_EQ",
+      "Paid on": "2026-09-25",
+      "Amount": 1.83,
+      "Quantity": 9.195979,
+      "Per share": 0.31,
+      "Type": "DIVIDEND",
+      "Reference": "495965eb-3437-4161-a5b9-118804f1936c",
+      "Name": "Nasdaq",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "BLK_US_EQ",
       "Paid on": "2026-09-22",
@@ -245,6 +267,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "EMHGl_EQ",
+      "Paid on": "2026-08-31",
+      "Amount": 2.62,
+      "Quantity": 140.0,
+      "Per share": 0.0187,
+      "Type": "DIVIDEND",
+      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
+      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "LTC_US_EQ",
       "Paid on": "2026-08-31",
       "Amount": 0.45,
@@ -264,17 +297,6 @@
       "Type": "DIVIDEND",
       "Reference": "a5f82ad9-21c2-41e6-986f-0bd909e76796",
       "Name": "Gladstone Commercial",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "EMHGl_EQ",
-      "Paid on": "2026-08-31",
-      "Amount": 2.62,
-      "Quantity": 140.0,
-      "Per share": 0.0187,
-      "Type": "DIVIDEND",
-      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
       "Currency": "GBP"
     },
     {
@@ -575,17 +597,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "CSCO_US_EQ",
-      "Paid on": "2026-07-22",
-      "Amount": 5.02,
-      "Quantity": 18.80610988,
-      "Per share": 0.42,
-      "Type": "DIVIDEND",
-      "Reference": "aca85577-53f8-4cb4-994e-b1bf538ed352",
-      "Name": "Cisco Systems",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "ROP_US_EQ",
       "Paid on": "2026-07-22",
       "Amount": 0.24,
@@ -594,6 +605,17 @@
       "Type": "DIVIDEND",
       "Reference": "a7fe05e4-5f10-4b38-ad01-7df26163509f",
       "Name": "Roper Technologies",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "CSCO_US_EQ",
+      "Paid on": "2026-07-22",
+      "Amount": 5.02,
+      "Quantity": 18.80610988,
+      "Per share": 0.42,
+      "Type": "DIVIDEND",
+      "Reference": "aca85577-53f8-4cb4-994e-b1bf538ed352",
+      "Name": "Cisco Systems",
       "Currency": "GBP"
     },
     {
@@ -707,17 +729,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "CB_US_EQ",
-      "Paid on": "2026-07-02",
-      "Amount": 0.32,
-      "Quantity": 0.41633286,
-      "Per share": 1.02,
-      "Type": "DIVIDEND",
-      "Reference": "0bce1753-a401-4df2-b08d-853968d366aa",
-      "Name": "Chubb",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "KMB_US_EQ",
       "Paid on": "2026-07-02",
       "Amount": 1.14,
@@ -726,6 +737,17 @@
       "Type": "DIVIDEND",
       "Reference": "6116ecdf-f353-4f1d-b8df-ea7eba848f56",
       "Name": "Kimberly-Clark",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "CB_US_EQ",
+      "Paid on": "2026-07-02",
+      "Amount": 0.32,
+      "Quantity": 0.41633286,
+      "Per share": 1.02,
+      "Type": "DIVIDEND",
+      "Reference": "0bce1753-a401-4df2-b08d-853968d366aa",
+      "Name": "Chubb",
       "Currency": "GBP"
     },
     {
@@ -982,17 +1004,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "IBM_US_EQ",
-      "Paid on": "2026-06-10",
-      "Amount": 0.64,
-      "Quantity": 0.5953511,
-      "Per share": 1.69,
-      "Type": "DIVIDEND",
-      "Reference": "e777749c-2494-43c1-80c9-0758ee1cbc07",
-      "Name": "IBM",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "EMR_US_EQ",
       "Paid on": "2026-06-10",
       "Amount": 0.35,
@@ -1001,6 +1012,17 @@
       "Type": "DIVIDEND",
       "Reference": "bed615d3-84a5-4f75-ac14-69812f6d060e",
       "Name": "Emerson Electric",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "IBM_US_EQ",
+      "Paid on": "2026-06-10",
+      "Amount": 0.64,
+      "Quantity": 0.5953511,
+      "Per share": 1.69,
+      "Type": "DIVIDEND",
+      "Reference": "e777749c-2494-43c1-80c9-0758ee1cbc07",
+      "Name": "IBM",
       "Currency": "GBP"
     },
     {
@@ -1543,17 +1565,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "NDAQ_US_EQ",
-      "Paid on": "2025-09-26",
-      "Amount": 1.58,
-      "Quantity": 9.195979,
-      "Per share": 0.27,
-      "Type": "DIVIDEND",
-      "Reference": "46291732-75f4-46c9-abec-083110571af6",
-      "Name": "Nasdaq",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "HSBAl_EQ",
       "Paid on": "2025-09-26",
       "Amount": 14.08,
@@ -1562,6 +1573,17 @@
       "Type": "DIVIDEND",
       "Reference": "dfb84668-2425-461a-8ee2-d6150f6bb8dc",
       "Name": "HSBC",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NDAQ_US_EQ",
+      "Paid on": "2025-09-26",
+      "Amount": 1.58,
+      "Quantity": 9.195979,
+      "Per share": 0.27,
+      "Type": "DIVIDEND",
+      "Reference": "46291732-75f4-46c9-abec-083110571af6",
+      "Name": "Nasdaq",
       "Currency": "GBP"
     },
     {
