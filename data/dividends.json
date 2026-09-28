@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-27T21:30:14.229046+00:00",
+  "generatedAt": "2026-09-28T23:25:18.720719+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "MAIN_US_EQ",
+      "Paid on": "2026-09-28",
+      "Amount": 0.52,
+      "Quantity": 2.70722512,
+      "Per share": 0.3,
+      "Type": "DIVIDEND",
+      "Reference": "2012adfe-d936-401d-8ed7-1a0496cd1c84",
+      "Name": "Main Street Capital",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "HSBAl_EQ",
       "Paid on": "2026-09-25",
@@ -146,17 +157,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "SHW_US_EQ",
-      "Paid on": "2026-09-11",
-      "Amount": 0.22,
-      "Quantity": 0.43583007,
-      "Per share": 0.8,
-      "Type": "DIVIDEND",
-      "Reference": "0974a289-519a-4198-8042-8f5f5d3e0932",
-      "Name": "Sherwin-Williams",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "PPG_US_EQ",
       "Paid on": "2026-09-11",
       "Amount": 0.54,
@@ -165,6 +165,17 @@
       "Type": "DIVIDEND",
       "Reference": "98cfabb5-19b0-4a11-9b4b-5f6261fd3941",
       "Name": "PPG Industries",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "SHW_US_EQ",
+      "Paid on": "2026-09-11",
+      "Amount": 0.22,
+      "Quantity": 0.43583007,
+      "Per share": 0.8,
+      "Type": "DIVIDEND",
+      "Reference": "0974a289-519a-4198-8042-8f5f5d3e0932",
+      "Name": "Sherwin-Williams",
       "Currency": "GBP"
     },
     {
@@ -267,14 +278,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "EMHGl_EQ",
+      "Ticker": "GOOD_US_EQ",
       "Paid on": "2026-08-31",
-      "Amount": 2.62,
-      "Quantity": 140.0,
-      "Per share": 0.0187,
+      "Amount": 0.72,
+      "Quantity": 11.40066159,
+      "Per share": 0.1,
       "Type": "DIVIDEND",
-      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Reference": "a5f82ad9-21c2-41e6-986f-0bd909e76796",
+      "Name": "Gladstone Commercial",
       "Currency": "GBP"
     },
     {
@@ -289,17 +300,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "GOOD_US_EQ",
-      "Paid on": "2026-08-31",
-      "Amount": 0.72,
-      "Quantity": 11.40066159,
-      "Per share": 0.1,
-      "Type": "DIVIDEND",
-      "Reference": "a5f82ad9-21c2-41e6-986f-0bd909e76796",
-      "Name": "Gladstone Commercial",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "CF_US_EQ",
       "Paid on": "2026-08-31",
       "Amount": 0.5,
@@ -308,6 +308,17 @@
       "Type": "DIVIDEND",
       "Reference": "90d86503-bd94-4bd4-a1f0-0ce94e6e3edf",
       "Name": "CF Industries",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "EMHGl_EQ",
+      "Paid on": "2026-08-31",
+      "Amount": 2.62,
+      "Quantity": 140.0,
+      "Per share": 0.0187,
+      "Type": "DIVIDEND",
+      "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
+      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
       "Currency": "GBP"
     },
     {
@@ -564,17 +575,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "EMHGl_EQ",
-      "Paid on": "2026-07-29",
-      "Amount": 2.58,
-      "Quantity": 140.0,
-      "Per share": 0.0184,
-      "Type": "DIVIDEND",
-      "Reference": "8bf94af8-9604-40c5-977d-b7fde7129c3c",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "BNS_US_EQ",
       "Paid on": "2026-07-29",
       "Amount": 0.82,
@@ -583,6 +583,17 @@
       "Type": "DIVIDEND",
       "Reference": "ffe06540-3911-42ab-baf5-583730ec1ebf",
       "Name": "Bank of Nova Scotia",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "EMHGl_EQ",
+      "Paid on": "2026-07-29",
+      "Amount": 2.58,
+      "Quantity": 140.0,
+      "Per share": 0.0184,
+      "Type": "DIVIDEND",
+      "Reference": "8bf94af8-9604-40c5-977d-b7fde7129c3c",
+      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
       "Currency": "GBP"
     },
     {
@@ -597,17 +608,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ROP_US_EQ",
-      "Paid on": "2026-07-22",
-      "Amount": 0.24,
-      "Quantity": 0.42010405,
-      "Per share": 0.91,
-      "Type": "DIVIDEND",
-      "Reference": "a7fe05e4-5f10-4b38-ad01-7df26163509f",
-      "Name": "Roper Technologies",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "CSCO_US_EQ",
       "Paid on": "2026-07-22",
       "Amount": 5.02,
@@ -616,6 +616,17 @@
       "Type": "DIVIDEND",
       "Reference": "aca85577-53f8-4cb4-994e-b1bf538ed352",
       "Name": "Cisco Systems",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ROP_US_EQ",
+      "Paid on": "2026-07-22",
+      "Amount": 0.24,
+      "Quantity": 0.42010405,
+      "Per share": 0.91,
+      "Type": "DIVIDEND",
+      "Reference": "a7fe05e4-5f10-4b38-ad01-7df26163509f",
+      "Name": "Roper Technologies",
       "Currency": "GBP"
     },
     {
@@ -685,17 +696,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ITW_US_EQ",
-      "Paid on": "2026-07-10",
-      "Amount": 0.53,
-      "Quantity": 0.51881442,
-      "Per share": 1.61,
-      "Type": "DIVIDEND",
-      "Reference": "c29939d1-28e4-4e3c-82fb-f1f5ec05099b",
-      "Name": "Illinois Tool Works",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "AGNC_US_EQ",
       "Paid on": "2026-07-10",
       "Amount": 1.01,
@@ -704,6 +704,17 @@
       "Type": "DIVIDEND",
       "Reference": "01582e54-16e5-419c-b223-b587a260a4f7",
       "Name": "AGNC Investment",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ITW_US_EQ",
+      "Paid on": "2026-07-10",
+      "Amount": 0.53,
+      "Quantity": 0.51881442,
+      "Per share": 1.61,
+      "Type": "DIVIDEND",
+      "Reference": "c29939d1-28e4-4e3c-82fb-f1f5ec05099b",
+      "Name": "Illinois Tool Works",
       "Currency": "GBP"
     },
     {
@@ -828,17 +839,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "TROW_US_EQ",
-      "Paid on": "2026-06-29",
-      "Amount": 1.1,
-      "Quantity": 1.3187675,
-      "Per share": 1.3,
-      "Type": "DIVIDEND",
-      "Reference": "1579aca4-770d-4997-9500-5893b42f7b29",
-      "Name": "T Rowe Price",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "MAIN_US_EQ",
       "Paid on": "2026-06-29",
       "Amount": 0.52,
@@ -850,14 +850,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "NVDA_US_EQ",
-      "Paid on": "2026-06-26",
-      "Amount": 1.11,
-      "Quantity": 6.9260596,
-      "Per share": 0.25,
+      "Ticker": "TROW_US_EQ",
+      "Paid on": "2026-06-29",
+      "Amount": 1.1,
+      "Quantity": 1.3187675,
+      "Per share": 1.3,
       "Type": "DIVIDEND",
-      "Reference": "ef7fdb30-5a44-41b1-b74f-1a4db5b26642",
-      "Name": "Nvidia",
+      "Reference": "1579aca4-770d-4997-9500-5893b42f7b29",
+      "Name": "T Rowe Price",
       "Currency": "GBP"
     },
     {
@@ -880,6 +880,17 @@
       "Type": "DIVIDEND",
       "Reference": "f3027375-a53c-4060-ac07-c1d655f435a9",
       "Name": "HSBC",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NVDA_US_EQ",
+      "Paid on": "2026-06-26",
+      "Amount": 1.11,
+      "Quantity": 6.9260596,
+      "Per share": 0.25,
+      "Type": "DIVIDEND",
+      "Reference": "ef7fdb30-5a44-41b1-b74f-1a4db5b26642",
+      "Name": "Nvidia",
       "Currency": "GBP"
     },
     {
@@ -993,17 +1004,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "CVX_US_EQ",
-      "Paid on": "2026-06-10",
-      "Amount": 0.8,
-      "Quantity": 0.71073357,
-      "Per share": 1.78,
-      "Type": "DIVIDEND",
-      "Reference": "8ae39856-252a-42dc-8d55-80669b9e3c38",
-      "Name": "Chevron",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "EMR_US_EQ",
       "Paid on": "2026-06-10",
       "Amount": 0.35,
@@ -1023,6 +1023,17 @@
       "Type": "DIVIDEND",
       "Reference": "e777749c-2494-43c1-80c9-0758ee1cbc07",
       "Name": "IBM",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "CVX_US_EQ",
+      "Paid on": "2026-06-10",
+      "Amount": 0.8,
+      "Quantity": 0.71073357,
+      "Per share": 1.78,
+      "Type": "DIVIDEND",
+      "Reference": "8ae39856-252a-42dc-8d55-80669b9e3c38",
+      "Name": "Chevron",
       "Currency": "GBP"
     },
     {
