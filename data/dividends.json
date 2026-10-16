@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-10-15T21:35:05.371439+00:00",
+  "generatedAt": "2026-10-16T21:27:42.998850+00:00",
   "currency": "GBP",
   "dividends": [
     {
-      "Ticker": "ECL_US_EQ",
-      "Paid on": "2026-10-15",
-      "Amount": 0.2,
-      "Quantity": 0.50675322,
-      "Per share": 0.73,
+      "Ticker": "RGLD_US_EQ",
+      "Paid on": "2026-10-16",
+      "Amount": 0.16,
+      "Quantity": 0.62445608,
+      "Per share": 0.475,
       "Type": "DIVIDEND",
-      "Reference": "0ac8b185-68d0-42c4-a9bd-915635ede2a5",
-      "Name": "Ecolab",
+      "Reference": "f517fef9-9f79-4530-a4ff-82fe7364ece3",
+      "Name": "Royal Gold",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "CAH_US_EQ",
+      "Paid on": "2026-10-15",
+      "Amount": 0.17,
+      "Quantity": 0.61215748,
+      "Per share": 0.5158,
+      "Type": "DIVIDEND",
+      "Reference": "77d8f841-b60a-4a72-990a-d4165f1a6375",
+      "Name": "Cardinal Health",
       "Currency": "GBP"
     },
     {
@@ -25,6 +36,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "ECL_US_EQ",
+      "Paid on": "2026-10-15",
+      "Amount": 0.2,
+      "Quantity": 0.50675322,
+      "Per share": 0.73,
+      "Type": "DIVIDEND",
+      "Reference": "0ac8b185-68d0-42c4-a9bd-915635ede2a5",
+      "Name": "Ecolab",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "MAIN_US_EQ",
       "Paid on": "2026-10-15",
       "Amount": 0.38,
@@ -33,17 +55,6 @@
       "Type": "DIVIDEND",
       "Reference": "eff553e7-a61a-4df9-b9ae-692e643c93e4",
       "Name": "Main Street Capital",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "CAH_US_EQ",
-      "Paid on": "2026-10-15",
-      "Amount": 0.17,
-      "Quantity": 0.61215748,
-      "Per share": 0.5158,
-      "Type": "DIVIDEND",
-      "Reference": "77d8f841-b60a-4a72-990a-d4165f1a6375",
-      "Name": "Cardinal Health",
       "Currency": "GBP"
     },
     {
