@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-17T20:47:05.768841+00:00",
+  "generatedAt": "2026-10-18T20:56:21.365331+00:00",
   "summary": {
     "Account ID": 21467731,
     "Currency": "GBP",
-    "Total account value": 43204.8,
+    "Total account value": 43204.83,
     "Investments value": 42973.36,
     "Invested (cost basis)": 37757.29,
     "Unrealised P/L": 5216.07,
     "Unrealised P/L %": 0.13814736174126901,
     "Realised P/L (all time)": 1243.5,
-    "Cash available to trade": 231.44,
+    "Cash available to trade": 231.47,
     "Cash in pies": 45.73,
     "Cash reserved for orders": 0.0
   },
@@ -1258,15 +1258,15 @@
   ],
   "history": [
     {
-      "Date": "2026-10-17",
-      "Timestamp": "2026-10-17 20:47:05",
-      "Total value": 43204.8,
+      "Date": "2026-10-18",
+      "Timestamp": "2026-10-18 20:56:21",
+      "Total value": 43204.83,
       "Investments value": 42973.36,
       "Invested (cost basis)": 37757.29,
       "Unrealised P/L": 5216.07,
       "Unrealised P/L %": 0.13814736174126901,
       "Realised P/L": 1243.5,
-      "Cash": 277.17,
+      "Cash": 277.2,
       "Positions": 73
     }
   ]
