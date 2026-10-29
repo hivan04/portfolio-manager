@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-28T22:44:50.933274+00:00",
+  "generatedAt": "2026-10-29T22:53:50.475861+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "MRVL_US_EQ",
+      "Paid on": "2026-10-29",
+      "Amount": 0.3,
+      "Quantity": 9.6,
+      "Per share": 0.06,
+      "Type": "DIVIDEND",
+      "Reference": "befa0c0b-7869-4412-8f06-beca1623a8e9",
+      "Name": "Marvell Technology",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "BNS_US_EQ",
       "Paid on": "2026-10-28",
@@ -157,17 +168,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "CB_US_EQ",
-      "Paid on": "2026-10-02",
-      "Amount": 0.33,
-      "Quantity": 0.42255419,
-      "Per share": 1.02,
-      "Type": "DIVIDEND",
-      "Reference": "8f1f7f53-28df-466f-9c99-fea63cc54cf6",
-      "Name": "Chubb",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "CNQ_US_EQ",
       "Paid on": "2026-10-02",
       "Amount": 0.94,
@@ -187,6 +187,17 @@
       "Type": "DIVIDEND",
       "Reference": "f91488d9-3ef4-47db-adc5-d7ea362f24d6",
       "Name": "Kimberly-Clark",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "CB_US_EQ",
+      "Paid on": "2026-10-02",
+      "Amount": 0.33,
+      "Quantity": 0.42255419,
+      "Per share": 1.02,
+      "Type": "DIVIDEND",
+      "Reference": "8f1f7f53-28df-466f-9c99-fea63cc54cf6",
+      "Name": "Chubb",
       "Currency": "GBP"
     },
     {
