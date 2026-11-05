@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:49:58.905994+00:00",
+  "generatedAt": "2026-11-05T23:45:38.697683+00:00",
   "currency": "GBP",
   "dividends": [
     {
@@ -87,7 +87,7 @@
       "Per share": 0.0187,
       "Type": "DIVIDEND",
       "Reference": "7fb724f5-6008-418a-a29b-e26b7696256d",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -340,7 +340,7 @@
       "Per share": 0.0166,
       "Type": "DIVIDEND",
       "Reference": "9c57b49c-068a-4c53-aedf-7233e9077610",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -461,7 +461,7 @@
       "Per share": 1.58,
       "Type": "DIVIDEND",
       "Reference": "6a199e43-5e64-4902-ac0f-b1bde9c82b84",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
@@ -637,7 +637,7 @@
       "Per share": 0.0187,
       "Type": "DIVIDEND",
       "Reference": "76ce13d9-f3ac-438c-a6cf-88dee6df8c72",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -945,7 +945,7 @@
       "Per share": 0.0184,
       "Type": "DIVIDEND",
       "Reference": "8bf94af8-9604-40c5-977d-b7fde7129c3c",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1187,7 +1187,7 @@
       "Per share": 0.0167,
       "Type": "DIVIDEND",
       "Reference": "f4d0945e-9a69-4b0e-b885-634ded3540b7",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1484,7 +1484,7 @@
       "Per share": 0.0186,
       "Type": "DIVIDEND",
       "Reference": "a5d078fd-fb99-4fec-b271-037e99aff7da",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1517,7 +1517,7 @@
       "Per share": 2.43,
       "Type": "DIVIDEND",
       "Reference": "a3a65467-aa89-4f6d-b59a-92562033ce83",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1605,7 +1605,7 @@
       "Per share": 0.0179,
       "Type": "DIVIDEND",
       "Reference": "4172951c-7bfc-4483-b909-e8ee0679c83d",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1649,7 +1649,7 @@
       "Per share": 0.0189,
       "Type": "DIVIDEND",
       "Reference": "f46b3c8a-72ca-4249-89d4-7d84a7667bf7",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1704,7 +1704,7 @@
       "Per share": 0.0166,
       "Type": "DIVIDEND",
       "Reference": "46f09865-4d3f-40a4-8d77-fff87949bd08",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1748,7 +1748,7 @@
       "Per share": 0.0192,
       "Type": "DIVIDEND",
       "Reference": "48259485-5656-44c6-809c-f4fb21106607",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1781,7 +1781,7 @@
       "Per share": 0.0168,
       "Type": "DIVIDEND",
       "Reference": "f29a74d0-6b87-4826-987d-037418de9b5e",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1847,7 +1847,7 @@
       "Per share": 0.0204,
       "Type": "DIVIDEND",
       "Reference": "10abe181-626e-4fe0-bade-3451a8692916",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1891,7 +1891,7 @@
       "Per share": 0.0186,
       "Type": "DIVIDEND",
       "Reference": "820634e9-62d0-4008-9221-4bcd01e84ab6",
-      "Name": "iShares J.P. Morgan USD EM Bond (Dist)",
+      "Name": "EMHGl_EQ",
       "Currency": "GBP"
     },
     {
@@ -1979,7 +1979,7 @@
       "Per share": 1.22,
       "Type": "DIVIDEND",
       "Reference": "7f8cbd17-d729-4afe-8248-ec100daef4ba",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
@@ -2089,7 +2089,7 @@
       "Per share": 2.11,
       "Type": "DIVIDEND",
       "Reference": "35899edf-c2b1-4e7d-a7fa-cd692f42ae5c",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
@@ -2298,7 +2298,7 @@
       "Per share": 1.06,
       "Type": "DIVIDEND",
       "Reference": "76c120d3-9dcb-4e9e-8e60-13b918633894",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
@@ -2386,7 +2386,7 @@
       "Per share": 1.84,
       "Type": "DIVIDEND",
       "Reference": "c5716b91-ad1d-4e4e-bd44-8d254a7feb37",
-      "Name": "Lloyds Banking Group",
+      "Name": "LLOYl_EQ",
       "Currency": "GBP"
     },
     {
