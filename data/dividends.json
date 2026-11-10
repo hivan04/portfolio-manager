@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-08T22:18:51.727261+00:00",
+  "generatedAt": "2026-11-10T01:41:18.331645+00:00",
   "currency": "GBP",
   "dividends": [
+    {
+      "Ticker": "MA_US_EQ",
+      "Paid on": "2026-11-09",
+      "Amount": 0.13,
+      "Quantity": 0.28038062,
+      "Per share": 0.87,
+      "Type": "DIVIDEND",
+      "Reference": "d250b787-1d3e-4a26-a7e0-681602759111",
+      "Name": "Mastercard",
+      "Currency": "GBP"
+    },
     {
       "Ticker": "PNR_US_EQ",
       "Paid on": "2026-11-06",
@@ -25,14 +36,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "TD_US_EQ",
+      "Ticker": "JPM_US_EQ",
       "Paid on": "2026-11-02",
-      "Amount": 0.59,
-      "Quantity": 1.1533463,
-      "Per share": 0.8011731464,
+      "Amount": 0.35,
+      "Quantity": 0.40867246,
+      "Per share": 1.65,
       "Type": "DIVIDEND",
-      "Reference": "9a0d6f9b-0fc0-4f8f-9950-c45a17e1a339",
-      "Name": "Toronto-Dominion Bank",
+      "Reference": "59af8158-09ca-4a0b-8f42-ffae32b78bd2",
+      "Name": "JPMorgan Chase & Co",
       "Currency": "GBP"
     },
     {
@@ -47,14 +58,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "JPM_US_EQ",
+      "Ticker": "TD_US_EQ",
       "Paid on": "2026-11-02",
-      "Amount": 0.35,
-      "Quantity": 0.40867246,
-      "Per share": 1.65,
+      "Amount": 0.59,
+      "Quantity": 1.1533463,
+      "Per share": 0.8011731464,
       "Type": "DIVIDEND",
-      "Reference": "59af8158-09ca-4a0b-8f42-ffae32b78bd2",
-      "Name": "JPMorgan Chase & Co",
+      "Reference": "9a0d6f9b-0fc0-4f8f-9950-c45a17e1a339",
+      "Name": "Toronto-Dominion Bank",
       "Currency": "GBP"
     },
     {
@@ -179,17 +190,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ECL_US_EQ",
-      "Paid on": "2026-10-15",
-      "Amount": 0.2,
-      "Quantity": 0.50675322,
-      "Per share": 0.73,
-      "Type": "DIVIDEND",
-      "Reference": "0ac8b185-68d0-42c4-a9bd-915635ede2a5",
-      "Name": "Ecolab",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "MAIN_US_EQ",
       "Paid on": "2026-10-15",
       "Amount": 0.38,
@@ -198,6 +198,17 @@
       "Type": "DIVIDEND",
       "Reference": "eff553e7-a61a-4df9-b9ae-692e643c93e4",
       "Name": "Main Street Capital",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ECL_US_EQ",
+      "Paid on": "2026-10-15",
+      "Amount": 0.2,
+      "Quantity": 0.50675322,
+      "Per share": 0.73,
+      "Type": "DIVIDEND",
+      "Reference": "0ac8b185-68d0-42c4-a9bd-915635ede2a5",
+      "Name": "Ecolab",
       "Currency": "GBP"
     },
     {
@@ -311,17 +322,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "PEP_US_EQ",
-      "Paid on": "2026-09-30",
-      "Amount": 0.92,
-      "Quantity": 0.97307689,
-      "Per share": 1.48,
-      "Type": "DIVIDEND",
-      "Reference": "bbf4eb5e-3820-4775-a759-c9e4b005294f",
-      "Name": "PepsiCo",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "GOOD_US_EQ",
       "Paid on": "2026-09-30",
       "Amount": 0.73,
@@ -341,6 +341,17 @@
       "Type": "DIVIDEND",
       "Reference": "7df0fa7c-004b-4e90-86a8-4b2ab56a8cb8",
       "Name": "LTC Properties",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "PEP_US_EQ",
+      "Paid on": "2026-09-30",
+      "Amount": 0.92,
+      "Quantity": 0.97307689,
+      "Per share": 1.48,
+      "Type": "DIVIDEND",
+      "Reference": "bbf4eb5e-3820-4775-a759-c9e4b005294f",
+      "Name": "PepsiCo",
       "Currency": "GBP"
     },
     {
