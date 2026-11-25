@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-24T04:00:31.708520+00:00",
+  "generatedAt": "2026-11-25T02:40:55.845367+00:00",
   "currency": "GBP",
   "dividends": [
     {
-      "Ticker": "AAPL_US_EQ",
-      "Paid on": "2026-11-16",
-      "Amount": 0.69,
-      "Quantity": 4.78863108,
-      "Per share": 0.27,
+      "Ticker": "RY_US_EQ",
+      "Paid on": "2026-11-24",
+      "Amount": 0.55,
+      "Quantity": 0.68495686,
+      "Per share": 1.2254219351,
       "Type": "DIVIDEND",
-      "Reference": "c75b2547-5219-4294-b336-f1ffdb80025e",
-      "Name": "Apple",
+      "Reference": "1218060a-730e-4ae2-a466-ebe0c629c4b8",
+      "Name": "Royal Bank of Canada",
       "Currency": "GBP"
     },
     {
@@ -22,6 +22,17 @@
       "Type": "DIVIDEND",
       "Reference": "f2539508-07a9-44db-88c4-6e0cf6904f2b",
       "Name": "Abbott Laboratories",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "AAPL_US_EQ",
+      "Paid on": "2026-11-16",
+      "Amount": 0.69,
+      "Quantity": 4.78863108,
+      "Per share": 0.27,
+      "Type": "DIVIDEND",
+      "Reference": "c75b2547-5219-4294-b336-f1ffdb80025e",
+      "Name": "Apple",
       "Currency": "GBP"
     },
     {
@@ -146,6 +157,17 @@
       "Currency": "GBP"
     },
     {
+      "Ticker": "TD_US_EQ",
+      "Paid on": "2026-11-02",
+      "Amount": 0.59,
+      "Quantity": 1.1533463,
+      "Per share": 0.8011731464,
+      "Type": "DIVIDEND",
+      "Reference": "9a0d6f9b-0fc0-4f8f-9950-c45a17e1a339",
+      "Name": "Toronto-Dominion Bank",
+      "Currency": "GBP"
+    },
+    {
       "Ticker": "JPM_US_EQ",
       "Paid on": "2026-11-02",
       "Amount": 0.35,
@@ -168,14 +190,14 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "TD_US_EQ",
-      "Paid on": "2026-11-02",
-      "Amount": 0.59,
-      "Quantity": 1.1533463,
-      "Per share": 0.8011731464,
+      "Ticker": "GOOD_US_EQ",
+      "Paid on": "2026-10-30",
+      "Amount": 0.6,
+      "Quantity": 11.40066159,
+      "Per share": 0.1,
       "Type": "DIVIDEND",
-      "Reference": "9a0d6f9b-0fc0-4f8f-9950-c45a17e1a339",
-      "Name": "Toronto-Dominion Bank",
+      "Reference": "05f5f0fe-42e5-4fad-8db2-ae9918697861",
+      "Name": "Gladstone Commercial",
       "Currency": "GBP"
     },
     {
@@ -187,17 +209,6 @@
       "Type": "DIVIDEND",
       "Reference": "6dfa03cd-34ed-4810-ba17-3150ff66123a",
       "Name": "LTC Properties",
-      "Currency": "GBP"
-    },
-    {
-      "Ticker": "GOOD_US_EQ",
-      "Paid on": "2026-10-30",
-      "Amount": 0.6,
-      "Quantity": 11.40066159,
-      "Per share": 0.1,
-      "Type": "DIVIDEND",
-      "Reference": "05f5f0fe-42e5-4fad-8db2-ae9918697861",
-      "Name": "Gladstone Commercial",
       "Currency": "GBP"
     },
     {
@@ -333,17 +344,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ITW_US_EQ",
-      "Paid on": "2026-10-09",
-      "Amount": 0.47,
-      "Quantity": 0.51881442,
-      "Per share": 1.72,
-      "Type": "DIVIDEND",
-      "Reference": "55c717c5-6c43-4121-be07-38c71278ec44",
-      "Name": "Illinois Tool Works",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "AGNC_US_EQ",
       "Paid on": "2026-10-09",
       "Amount": 0.84,
@@ -352,6 +352,17 @@
       "Type": "DIVIDEND",
       "Reference": "77335fde-3131-4d72-8683-544c9074e319",
       "Name": "AGNC Investment",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ITW_US_EQ",
+      "Paid on": "2026-10-09",
+      "Amount": 0.47,
+      "Quantity": 0.51881442,
+      "Per share": 1.72,
+      "Type": "DIVIDEND",
+      "Reference": "55c717c5-6c43-4121-be07-38c71278ec44",
+      "Name": "Illinois Tool Works",
       "Currency": "GBP"
     },
     {
@@ -498,17 +509,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "NDAQ_US_EQ",
-      "Paid on": "2026-09-25",
-      "Amount": 1.83,
-      "Quantity": 9.195979,
-      "Per share": 0.31,
-      "Type": "DIVIDEND",
-      "Reference": "495965eb-3437-4161-a5b9-118804f1936c",
-      "Name": "Nasdaq",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "HSBAl_EQ",
       "Paid on": "2026-09-25",
       "Amount": 13.08,
@@ -517,6 +517,17 @@
       "Type": "DIVIDEND",
       "Reference": "7f17d32c-ffdd-4bf2-9c78-aac4221ad03d",
       "Name": "HSBC",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NDAQ_US_EQ",
+      "Paid on": "2026-09-25",
+      "Amount": 1.83,
+      "Quantity": 9.195979,
+      "Per share": 0.31,
+      "Type": "DIVIDEND",
+      "Reference": "495965eb-3437-4161-a5b9-118804f1936c",
+      "Name": "Nasdaq",
       "Currency": "GBP"
     },
     {
@@ -1004,17 +1015,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "TD_US_EQ",
-      "Paid on": "2026-07-31",
-      "Amount": 0.58,
-      "Quantity": 1.1533463,
-      "Per share": 0.7988017973,
-      "Type": "DIVIDEND",
-      "Reference": "c858f2e1-cbb4-4910-9884-4195c7615525",
-      "Name": "Toronto-Dominion Bank",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "LTC_US_EQ",
       "Paid on": "2026-07-31",
       "Amount": 0.46,
@@ -1023,6 +1023,17 @@
       "Type": "DIVIDEND",
       "Reference": "ac1b628f-f64d-4544-9420-9b929300c8f6",
       "Name": "LTC Properties",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "TD_US_EQ",
+      "Paid on": "2026-07-31",
+      "Amount": 0.58,
+      "Quantity": 1.1533463,
+      "Per share": 0.7988017973,
+      "Type": "DIVIDEND",
+      "Reference": "c858f2e1-cbb4-4910-9884-4195c7615525",
+      "Name": "Toronto-Dominion Bank",
       "Currency": "GBP"
     },
     {
@@ -1180,17 +1191,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "ITW_US_EQ",
-      "Paid on": "2026-07-10",
-      "Amount": 0.53,
-      "Quantity": 0.51881442,
-      "Per share": 1.61,
-      "Type": "DIVIDEND",
-      "Reference": "c29939d1-28e4-4e3c-82fb-f1f5ec05099b",
-      "Name": "Illinois Tool Works",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "AGNC_US_EQ",
       "Paid on": "2026-07-10",
       "Amount": 1.01,
@@ -1199,6 +1199,17 @@
       "Type": "DIVIDEND",
       "Reference": "01582e54-16e5-419c-b223-b587a260a4f7",
       "Name": "AGNC Investment",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "ITW_US_EQ",
+      "Paid on": "2026-07-10",
+      "Amount": 0.53,
+      "Quantity": 0.51881442,
+      "Per share": 1.61,
+      "Type": "DIVIDEND",
+      "Reference": "c29939d1-28e4-4e3c-82fb-f1f5ec05099b",
+      "Name": "Illinois Tool Works",
       "Currency": "GBP"
     },
     {
@@ -1345,17 +1356,6 @@
       "Currency": "GBP"
     },
     {
-      "Ticker": "NDAQ_US_EQ",
-      "Paid on": "2026-06-26",
-      "Amount": 1.83,
-      "Quantity": 9.195979,
-      "Per share": 0.31,
-      "Type": "DIVIDEND",
-      "Reference": "98dde4bd-b40c-4a4b-a974-ee5008cb735c",
-      "Name": "Nasdaq",
-      "Currency": "GBP"
-    },
-    {
       "Ticker": "HSBAl_EQ",
       "Paid on": "2026-06-26",
       "Amount": 13.14,
@@ -1375,6 +1375,17 @@
       "Type": "DIVIDEND",
       "Reference": "ef7fdb30-5a44-41b1-b74f-1a4db5b26642",
       "Name": "Nvidia",
+      "Currency": "GBP"
+    },
+    {
+      "Ticker": "NDAQ_US_EQ",
+      "Paid on": "2026-06-26",
+      "Amount": 1.83,
+      "Quantity": 9.195979,
+      "Per share": 0.31,
+      "Type": "DIVIDEND",
+      "Reference": "98dde4bd-b40c-4a4b-a974-ee5008cb735c",
+      "Name": "Nasdaq",
       "Currency": "GBP"
     },
     {
